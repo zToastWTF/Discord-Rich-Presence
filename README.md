@@ -29,7 +29,7 @@ Beispiel:
 
 
 4. Du Öffnest die/den ZipFile/Ordner und machst ein Rechtsklick auf die Config.ini Datei und klickst auf Bearbeiten!
-In der wirst du das sehn! --> 
+In der wirst du das sehn! v v v
 
 ![image](https://user-images.githubusercontent.com/95420955/153207751-7fee2513-0e36-4834-b41f-a322bfcf64a5.png)
 
