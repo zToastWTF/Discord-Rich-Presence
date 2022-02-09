@@ -22,7 +22,9 @@ In Discord Developer Portal Website:
 
 
 3. Du gehst auf OAuth2 -> General -> ClientID <- DIE KOPIERST DU! 
-Beispiel: ![image](https://user-images.githubusercontent.com/95420955/153207702-d501f6a9-7f40-4788-a961-0a2538084f8f.png)
+Beispiel:
+
+![image](https://user-images.githubusercontent.com/95420955/153207702-d501f6a9-7f40-4788-a961-0a2538084f8f.png)
 
 
 
