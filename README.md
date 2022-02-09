@@ -37,7 +37,7 @@ In der wirst du das sehn! v v v
 
 5. Du ersetzt die Zahl die hinter der ClientID steht [ClientID=(Zahl)] mit deiner die du vorhin kopiert hast!
 
-6. Bei Details/State schreibst du hin was du willst kommt drauf an was du da stehen haben möchtest!
+6. Bei Details & State schreibst du hin was du da stehen haben möchtest! Das ist dir Überlassen! Pass nur auf das es auch nicht die Regeln von Discord verstößt!
 Beispiel: 
 
 ![image](https://user-images.githubusercontent.com/95420955/153207824-fc4d320d-f346-4f5d-bb39-095646c4ddff.png)
