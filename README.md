@@ -48,6 +48,11 @@ Beispiel:
 Um jetzt Bilder einzufügen musst du wieder zurück in das *Discord Developer Portal*!
 Da gehst du auf Rich Presence -> Art Assets
 Dann siehst du schon Unten das du ein Bild einfügen kannst! [BEACHTE! Du kannst nur Bilder hochladen die Größer als 512x512 sind! 1024x1024 ist am besten Laut Discord!]
+Beispiel:
+
+![image](https://user-images.githubusercontent.com/95420955/153208629-e0f7da34-8f1a-42b1-bd79-754ca19b9ec8.png)
+
+
 
 Nachdem Du die Bilder eingefügt hast kannst du denen einen Namen geben! Diesen Namen gibst du in der Config.ini Datei an! bei Small oder Large Image!
 
