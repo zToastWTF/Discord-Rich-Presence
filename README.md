@@ -31,8 +31,8 @@ In der wirst du das sehn! --> ![image](https://user-images.githubusercontent.com
 
 6. Bei Details/State schreibst du hin was du willst kommt drauf an was du da stehen haben möchtest!
 Beispiel: 
+
 ![image](https://user-images.githubusercontent.com/95420955/153207824-fc4d320d-f346-4f5d-bb39-095646c4ddff.png)
-Und
 ![image](https://user-images.githubusercontent.com/95420955/153207857-9a82e9e8-da13-4f0e-8841-0bc824259047.png)
 
 
