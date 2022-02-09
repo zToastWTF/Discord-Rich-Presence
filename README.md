@@ -2,11 +2,10 @@
 
 Hier zeig ich dir auf *DEUTSCH* wie man ein Discord Rich Presence erstellt!
 
-1. installiert du die Sachen die da oben sind!
+1. Zuerst installierst du die Sachen die da oben sind!
 2. Geh auf https://discord.com/developers/applications und erstell dir da eine Application!
 
-Nachdem du es installiert hast gibst du es einen Namen!
-*ACHTUNGGG!* Der Name ist so zu sagen das Spiel was du spielst!
+Nachdem du eine Application erstellt hast musst du einen Namen wählen! Der Name ist sozusagen das Spiel!
 Beispiel:
 
 
