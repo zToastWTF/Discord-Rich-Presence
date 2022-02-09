@@ -57,6 +57,8 @@ Nachdem Du die Bilder eingefügt hast kannst du denen einen Namen geben! Diesen 
 Beispiel:
 
 ![image](https://user-images.githubusercontent.com/95420955/153208768-31124c86-1bb7-4240-b87c-f74f5c5c07a9.png)
+![image](https://user-images.githubusercontent.com/95420955/153209033-4d537ec8-79cb-4dd1-b284-f93beb6de886.png)
+![image](https://user-images.githubusercontent.com/95420955/153209070-2f244b78-9cf3-4a09-9bff-7e76349ae502.png)
 
 
 Wenn du Hilfe brauchst bei das hier dann schreibt mich auf Discord an!
