@@ -1,5 +1,7 @@
 # Discord-Rich-Presence
 
+INFO: DAS GANZE IST NICHT VON MIR GEMACHT!! ICH HAB DAS NUR AUF DEUTSCH ALLES ÜBERSETZT!
+
 Hier zeig ich dir auf *DEUTSCH* wie man ein Discord Rich Presence erstellt!
 
 1. Zuerst installierst du die Sachen die da oben sind!
